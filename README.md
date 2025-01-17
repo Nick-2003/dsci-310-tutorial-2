@@ -13,3 +13,6 @@
 
 - `git add <FILENAME>`: Add `<FILENAME>` to the staging area
 - `git commit -m "MESSAGE"`: Committing staged file to the version control history with message "MESSAGE"
+- `git push <WHERE> <WHAT>`: Push changes from the local version control repository to the <WHERE> repository on GitHub.com for branch <WHAT>
+- `git pull <WHERE> <WHAT>`: Pull changes from the <WHERE> version control repository on GitHub.com to the local repository for branch <WHAT>
+  
